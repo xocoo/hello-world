@@ -1,7 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Jenkins Ansible</h1>
-    <h2>Suul Testlev</h2>
+    <h1>Kubernetes - Jenkins Ansible</h1>
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
